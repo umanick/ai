@@ -1,6 +1,7 @@
-mlc/w3/machine-learning-ex2/ex2.pdf
-mlc/w3/machine-learning-ex2/ex2/lib
-mlc/w3/machine-learning-ex2/ex2/ex2*
-mlc/w3/machine-learning-ex2/ex2/map*
-mlc/w3/machine-learning-ex2/ex2/plotDecision*
-mlc/w3/machine-learning-ex2/ex2/submit.m
+mlc/w*/machine-learning-ex*/ex*.pdf
+mlc/w*/machine-learning-ex*/ex*/lib
+mlc/w*/machine-learning-ex*/ex*/ex*
+mlc/w*/machine-learning-ex*/ex*/map*
+mlc/w*/machine-learning-ex*/ex*/plotDecision*
+mlc/w*/machine-learning-ex*/ex*/submit.m
+mlc/w*/machine-learning-ex*/ex*/token.mat
