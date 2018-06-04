@@ -16,14 +16,14 @@ p = zeros(m, 1);
 %
 
 gz = sigmoid(X*theta);
-for i = 1:length(gz)
-    if gz(i)>=0.5
-        p(i) = 1;
-    else 
-        p(i) = 0;
-    end
-end
-
+%for i = 1:length(gz)
+%    if gz(i)>=0.5
+%        p(i) = 1;
+%    else 
+%        p(i) = 0;
+%    end
+%end
+p = gz>0.5;
 % =========================================================================
 
 
