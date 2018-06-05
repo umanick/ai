@@ -29,9 +29,9 @@ X = [ones(m, 1) X];
 %       are in rows, then, you can use max(A, [], 2) to obtain the max 
 %       for each row.
 %       
+pred = X * all_theta';
 
-
-
+[highest_probability,p] = max(pred, [] , 2);
 
 
 
