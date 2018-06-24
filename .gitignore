@@ -1,3 +1,4 @@
+*.zip
 mlc/w*/machine-learning-ex*/ex*.pdf
 mlc/w*/machine-learning-ex*/ex*/lib
 mlc/w*/machine-learning-ex*/ex*/ex*
@@ -8,3 +9,4 @@ mlc/w*/machine-learning-ex*/ex*/token.mat
 mlc/w4/machine-learning-ex3/ex3/fmin*
 mlc/w4/machine-learning-ex3/ex3/sigmoid.m
 mlc/w4/machine-learning-ex3/ex3/displayData.m
+mlc/w*/*.pdf
